@@ -2,7 +2,7 @@ from django.db import models
 
 
 class DoctorDetails(models.Model):
-    name = models.CharField(max_length=50)
+    name = models.TextField()
 
     def __str__(self):
         return self.name

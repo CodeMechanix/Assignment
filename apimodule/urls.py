@@ -5,7 +5,7 @@ from .views import DoctorDetailsAPIView, PatientDetailsAPIView, PatientDetailsAP
 
 urlpatterns = [
     path('', DoctorDetailsAPIView.as_view()),
-    path('all-patients/', PatientDetailsAPIView.as_view()),
-    path('patient/<int:pk>/', PatientDetailsAPIDetailView.as_view()),
-    path('patient/add/', PatientDetailsAPINewView.as_view()),
+    path('patients/', PatientDetailsAPIView.as_view()),
+    path('patients/<int:pk>/', PatientDetailsAPIDetailView.as_view()),
+    path('patients/add/', PatientDetailsAPINewView.as_view()),
 ]

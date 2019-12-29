@@ -17,7 +17,7 @@ class PatientDetailsAPIDetailView(generics.RetrieveUpdateDestroyAPIView):
 
 
 class PatientDetailsAPINewView(generics.ListCreateAPIView):
-    queryset = PatientDetails.objects.all().order_by('-id')[:1]  # latest quote
+    queryset = ''  # latest quote
     serializer_class = PatientDetailsSerializer
 
 

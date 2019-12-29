@@ -1,4 +1,4 @@
-# REST key-val store
+# REST API Based Key-Value Store
 
 #### Type those URLs to the browser:
 * Get all the values of the store: http://127.0.0.1:8000/api/patients

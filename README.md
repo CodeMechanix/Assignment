@@ -10,7 +10,9 @@
 * Status code 400 = Bad Request
 * Status code 204 = Deleted Value Successfully 
 * Status code 201 = Created New Data
-
+#### TTL Setup
+* Set TTL for five minutes(For all created data)
+* TTL Value can updated when data value change
 #### Retrive all Data from Store
 ![All Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/All-Store-Value.PNG)
 

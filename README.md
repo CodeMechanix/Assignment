@@ -15,7 +15,12 @@
 ![All Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/All-Store-Value.PNG)
 
 #### Add New data From Store 
+![Add New Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/Add-New-Data.PNG)
+
 #### Update Specific Data
+![update Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/Specific-Data-Update.PNG)
+
 #### Delete Data from Store
+![Delete Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/Delete-Data.PNG)
 
 

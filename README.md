@@ -23,4 +23,10 @@
 #### Delete Data from Store
 ![Delete Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/Delete-Data.PNG)
 
+#### Package Dependency
+* pip install djangorestframework
+* pip install psycopg2 (I Used PostgreSQL for data store)
+
+
+
 

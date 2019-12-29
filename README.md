@@ -12,7 +12,7 @@
 * Status code 201 = Created New Data
 
 #### Retrive all Data from Store
-![All Data](https://github.com/CodeMechanix/Assignment/tree/master/Workflow-Image)
+![All Data](https://github.com/CodeMechanix/Assignment/blob/master/Workflow-Image/All-Store-Value.PNG)
 
 #### Add New data From Store 
 #### Update Specific Data
